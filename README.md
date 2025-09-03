@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @iamroshanraut
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development
-- 📫 How to reach me https://twitter.com/roshanraut012
+# 👋 Hi, I'm Roshan Raut  
 
-<!---
-iamroshanraut/iamroshanraut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Aspiring **Full Stack Developer (MERN)** | Passionate about building interactive & scalable web apps  
+
+🌟 Currently focusing on:  
+- 🚀 Data Structures & Algorithms (JavaScript)  
+- ⚛️ React.js & Frontend Projects  
+- 🌐 Learning Backend (Node.js, Express, MongoDB)  
+
+📊 What I Do:  
+- Solve DSA problems on **LeetCode** & track progress in my [DSA Practice Repo](https://github.com/iamroshanraut/DSA-Practice)  
+- Build **frontend projects** with HTML, CSS, JavaScript, and React  
+- Share my journey & learnings on LinkedIn/Twitter  
+
+📫 Reach me here:  
+- [Twitter](https://twitter.com/roshanraut012)  
+- [LinkedIn](https://linkedin.com/in/roshanraut)  
+- [GitHub](https://github.com/iamroshanraut)  
