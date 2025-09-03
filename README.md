@@ -16,3 +16,10 @@
 - [Twitter](https://twitter.com/roshanraut012)  
 - [LinkedIn](https://linkedin.com/in/roshanraut)  
 - [GitHub](https://github.com/iamroshanraut)  
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
+![LeetCode](https://img.shields.io/badge/DSA-LeetCode-orange)
