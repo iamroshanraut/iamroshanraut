@@ -23,3 +23,12 @@
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
 ![LeetCode](https://img.shields.io/badge/DSA-LeetCode-orange)
+
+## 📊 GitHub Stats  
+
+![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamroshanraut&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=iamroshanraut&theme=dark&border_radius=6)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamroshanraut&layout=compact&theme=radical)
+
