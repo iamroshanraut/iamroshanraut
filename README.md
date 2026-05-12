@@ -1,13 +1,11 @@
 <div align="center">
 
-```
 <div align="center">
 
 # Roshan Raut 〈 Data Analyst 〉
 
 </div>
 
-```
 
 ### `Turning raw data into real decisions.` 📊
 
