@@ -1,7 +1,11 @@
 <div align="center">
 
 ```
-# Hi, I'm Roshan Raut 👋
+<div align="center">
+
+# Roshan Raut 〈 Data Analyst 〉
+
+</div>
 
 ```
 
