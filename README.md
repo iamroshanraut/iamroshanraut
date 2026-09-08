@@ -44,14 +44,14 @@ roshan = {
 
 | # | Module | Status | Progress |
 |---|--------|--------|----------|
-| 01 | 🐍 Python | ✅ Completed | `████████░░` 90% |
-| 02 | 🔢 NumPy | ⏳ In Progress | `░░░░░░░░░░` 0% |
-| 03 | 🐼 Pandas | 🔜 Up Next | `░░░░░░░░░░` 0% |
-| 04 | 🗄️ SQL | 🔜 Soon | `░░░░░░░░░░` 0% |
-| 05 | 📊 Power BI | 🔜 Soon | `░░░░░░░░░░` 0% |
-| 06 | 📈 Matplotlib & Seaborn | 🔜 Soon | `░░░░░░░░░░` 0% |
-| 07 | 🤖 Generative AI | 🔜 Soon | `░░░░░░░░░░` 0% |
-| 08 | 📗 Excel | 🔜 Soon | `░░░░░░░░░░` 0% |
+| 01 | 🐍 Python | ⏳ In Progress | `██████░░░░` 70% |
+| 02 | 🔢 NumPy | ⏳ In Progress | `█████████░` 90% |
+| 03 | 🐼 Pandas | ⏳ In Progress | `███████░░░` 70% |
+| 04 | 🗄️ SQL | ⏳ In Progress | `███████░░░` 70% |
+| 05 | 📊 Power BI | ⏳ In Progress | `██████░░░░` 60% |
+| 06 | 📈 Matplotlib & Seaborn | ⏳ In Progress | `███████░░░` 70% |
+| 07 | 🤖 Generative AI | ⏳ In Progress | `░░░░░░░░░░` 0% |
+| 08 | 📗 Excel | ⏳ In Progress | `░░░░░░░░░░` 0% |
 | 09 | 📐 Maths for ML | 🔜 Soon | `░░░░░░░░░░` 0% |
 | 10 | ☁️ Cloud & Git | 🔜 Soon | `░░░░░░░░░░` 0% |
 | 11 | 🏆 Portfolio Projects | 🔜 Soon | `░░░░░░░░░░` 0% |
