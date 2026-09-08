@@ -44,7 +44,7 @@ roshan = {
 
 | # | Module | Status | Progress |
 |---|--------|--------|----------|
-| 01 | 🐍 Python | ✅ Completed | `██████████` 100% |
+| 01 | 🐍 Python | ✅ Completed | `████████░░` 90% |
 | 02 | 🔢 NumPy | ⏳ In Progress | `░░░░░░░░░░` 0% |
 | 03 | 🐼 Pandas | 🔜 Up Next | `░░░░░░░░░░` 0% |
 | 04 | 🗄️ SQL | 🔜 Soon | `░░░░░░░░░░` 0% |
